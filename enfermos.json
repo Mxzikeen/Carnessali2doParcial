@@ -1,0 +1,31 @@
+[ {
+  "personas" : {
+    "nombre" : "Mateo",
+    "apellido" : "Rodriguez",
+    "edad" : 23,
+    "barrio" : "San carlos",
+    "dni" : "12345681",
+    "ocupacion" : "Estudiante"
+  },
+  "temp" : 38
+}, {
+  "personas" : {
+    "nombre" : "Agustin",
+    "apellido" : "Carnessali",
+    "edad" : 22,
+    "barrio" : "Colinas",
+    "dni" : "12345678",
+    "ocupacion" : "Estudiante"
+  },
+  "temp" : 38
+}, {
+  "personas" : {
+    "nombre" : "Guido",
+    "apellido" : "Carnessali",
+    "edad" : 16,
+    "barrio" : "Colinas",
+    "dni" : "12345682",
+    "ocupacion" : "Streamer"
+  },
+  "temp" : 38
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "personas" : {
+    "nombre" : "Juan",
+    "apellido" : "Perez",
+    "edad" : 22,
+    "barrio" : "Puerto",
+    "dni" : "12345679",
+    "ocupacion" : "Estudiante"
+  },
+  "temp" : 36
+}, {
+  "personas" : {
+    "nombre" : "Leo",
+    "apellido" : "Chiessa",
+    "edad" : 30,
+    "barrio" : "Chauvin",
+    "dni" : "12345680",
+    "ocupacion" : "Profe"
+  },
+  "temp" : 36
+} ]
